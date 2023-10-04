@@ -4,4 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/CharacterLighting.unity
+    guid: 0186cf5b73c8b904aa6e42f4e6d484a8
+  m_configObjects: {}
